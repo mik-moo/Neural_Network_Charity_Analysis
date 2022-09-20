@@ -35,7 +35,7 @@ This project uses a .csv with over 34,000 organizations that received funding fr
 
 - The original neural network had 2 hidden layers, the first with 80 neurons and the second with 30 neurons.  Both layers used Relu activation and the output layer was sigmoid. It was fit to the model, ran for 100 epochs with checkpoints saved every 5 epochs. This model had a loss of ~56% and an accuracy of ~72%.
 
-<figcaption align = "center"><b></b></figcaption><img src="images/orininal_nn.png" > 
+<figcaption align = "center"><b></b></figcaption><img src="images/original_nn.png" > 
 
 <figcaption align = "center"><b></b></figcaption><img src="images/original_nn_metrics.png" > 
 
