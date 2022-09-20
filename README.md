@@ -77,9 +77,9 @@ This project uses a .csv with over 34,000 organizations that received funding fr
 
 ## Discussion
 
-The layers were increased to 3 during optimization based on documentation that even complex interactions may be resolved in as few as 3 layers (Module 19 class materials). Throughout the optimization, neurons were increased and decreased to determine if there was an effect on the models.  For base neurons, 2 to 3 times the amount of input should be a good window to start modeling (Module 19 class materials). The activation functions were either Tahn (values -1 to 1) or Relu (non-linear data) based on the input variables.  Sigmoid was chosen for the outout layer because a binary value was expected.
+The layers were increased to 3 during optimization based on documentation that even complex interactions may be resolved in as few as 3 layers (Module 19 class materials). Throughout the optimization, neurons were increased and decreased to determine if there was an effect on the models.  For base neurons, 2 to 3 times the amount of input should be a good window to start modeling (Module 19 class materials). The activation functions were either Tahn (values -1 to 1) or Relu (non-linear data) based on the input variables.  Sigmoid was chosen for the output layer because a binary value was expected.
 
-The target accuracy of at least 75% was not reached during optimization.  The best model was ~73% accurate  
+The target accuracy of at least 75% was not reached during optimization.  The best model was ~73% accurate.  
 
 ## Summary
 
