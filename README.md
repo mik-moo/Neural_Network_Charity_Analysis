@@ -83,4 +83,4 @@ The target accuracy of at least 75% was not reached during optimization.  The be
 
 ## Summary
 
-Overall, the models were able to reach an accuracy of ~73% and loss of ~55%.  Based on the optimization trials for this project, a different model could be tried.  Support vector machine classification could be a potential solution. It may be able to achieve the same or higher accuracy with less code and less/no pre-processing. Another option would be to increase the hidden layers above 3 and adjust, further adjust the activations and/or the neurons.
+Overall, the models were able to reach an accuracy of ~73% and loss of ~55%.  Based on the optimization trials for this project, a different model could be tried.  Support vector machine classification could be a potential solution. It may be able to achieve the same or higher accuracy with less code and less/no pre-processing. Another option would be to increase the hidden layers above 3 and further adjust the activations and/or neurons.
